@@ -1,2 +1,0 @@
-# nuxtApp
-nuxt.js app
